@@ -1,9 +1,8 @@
 # haxxx
-## Searchable doc of small hacks, reminders, helpers etc.
+👩‍💻 🤓 ❗
 
 
-
-#### Android Studio
+### Android Studio
 
 Issue: Please Select Android SDK
 
